@@ -10,7 +10,7 @@ To get started with CKiller, follow these steps:
 
 2. Run CKiller for command help:
 
-`ck ask [command] [question]`
+`ckiller ask [command] [question]`
 
 3. Fllow the instruction to get the answer.
 
