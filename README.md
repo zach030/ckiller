@@ -8,11 +8,16 @@ To get started with CKiller, follow these steps:
 
 `go install github.com/zach030/ckiller`
 
-2. Run CKiller for command help:
+2. Set environment for openai:
+```
+export OPENAIAPIKEY=xxx
+export OPENAIBASEURL=xxx # if need proxy
+```
+3. Run CKiller for command help:
 
 `ckiller ask [command] [question]`
 
-3. Fllow the instruction to get the answer.
+4. Fllow the instruction to get the answer.
 
 ```
 🚀Step-1
