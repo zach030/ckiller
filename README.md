@@ -27,6 +27,9 @@ export OPENAIBASEURL=xxx # if need proxy
         Action:xxx
         Command:xxx
 ```
+**Example**
+<img width="1018" alt="image" src="https://user-images.githubusercontent.com/51114270/236627253-16c1f654-963e-48ec-9b4f-652cf20ea972.png">
+<img width="1345" alt="image" src="https://user-images.githubusercontent.com/51114270/236627346-7ec0f278-a4cd-4319-80d7-256941525722.png">
 
 ## Contributing
 We welcome contributions to CKiller! To contribute, please follow these steps:
